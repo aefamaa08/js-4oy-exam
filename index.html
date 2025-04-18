@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Pizza</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hammasi">
+        <header class="header">
+            <div class="logo-section">
+                <img src="assets/image 1 (7).png" alt="React Pizza Logo" class="logo">
+                <div class="logo-text">
+                    <h1>REACT PIZZA</h1>
+                    <p>Самая вкусная пицца во вселенной</p>
+                </div>
+            </div>
+            <div class="cart-section">
+                <button class="cart-button">
+                    <span class="cart-price">Корзина</span>
+                   
+                </button>
+            </div>
+        </header>
+
+        <div class="pizza_menyu">
+            <nav class="menu">
+                <button class="menu-item active" data-category="all">Все</button>
+                <button class="menu-item" data-category="meat">Мясные</button>
+                <button class="menu-item" data-category="vegetarian">Вегетарианская</button>
+                <button class="menu-item" data-category="grill">Гриль</button>
+                <button class="menu-item" data-category="spicy">Острые</button>
+                <button class="menu-item" data-category="closed">Закрытые</button>
+            </nav>
+            <select name="sort" id="sort">
+                <option value="popularity">по популярности</option>
+                <option value="price">по цене</option>
+                <option value="alphabet">по алфавиту</option>
+            </select>
+        </div>
+        
+
+        <div class="pizza-list"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

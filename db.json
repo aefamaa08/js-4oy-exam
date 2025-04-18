@@ -1,0 +1,69 @@
+{
+    "pizzas": [
+      {
+        "img": "https://irecommend.ru/sites/default/files/product-images/278223/XRIa4KxVJxkTmHSqcYXbg.jpg",
+        "name": "Чизбургер-пицца",
+        "price": "от 395 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "meat"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGDQKIlH6S1pP-oLUB2-7IJpXU_H9n1WgkA&s",
+        "name": "Сырная",
+        "price": "от 450 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "vegetarian"
+      },
+      {
+        "img": "https://sueyoushi.ru/no/wp-content/uploads/sites/6/2023/12/1122_oooo.plus_.png",
+        "name": "Креветки по-азиатски",
+        "price": "от 290 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "seafood"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZbmUK3fzIcue5XWS8XVcNp_a2_YMbEq4TA&s",
+        "name": "Сырный цыпленок",
+        "price": "от 385 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "meat"
+      },
+      {
+        "img": "https://irecommend.ru/sites/default/files/product-images/278223/XRIa4KxVJxkTmHSqcYXbg.jpg",
+        "name": "Чизбургер-пицца",
+        "price": "от 395 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "meat"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGDQKIlH6S1pP-oLUB2-7IJpXU_H9n1WgkA&s",
+        "name": "Сырная",
+        "price": "от 450 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "vegetarian"
+      },
+      {
+        "img": "https://sueyoushi.ru/no/wp-content/uploads/sites/6/2023/12/1122_oooo.plus_.png",
+        "name": "Креветки по-азиатски",
+        "price": "от 290 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "seafood"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZbmUK3fzIcue5XWS8XVcNp_a2_YMbEq4TA&s",
+        "name": "Сырный цыпленок",
+        "price": "от 385 ₽",
+        "sizes": ["26 см", "30 см", "40 см"],
+        "crusts": ["тонкое", "традиционное"],
+        "category": "meat"
+      }
+    ]
+  }
+  
